@@ -1,0 +1,4 @@
+﻿  Array.cpp
+d:\cpp\l29\l29\array.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\cpp\l29\l29\array.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  L29.vcxproj -> D:\CPP\L29\Debug\L29.exe

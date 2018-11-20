@@ -1,0 +1,3 @@
+﻿  regtangular.cpp
+d:\cpp\l24\l24\regtangular.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  L24.vcxproj -> D:\CPP\L24\Debug\L24.exe
