@@ -9,7 +9,7 @@ void main()
 
 	int const SIZE = 10;
 
-	int arr[SIZE];
+	int arr[SIZE], min=1000000;
 
 	for (int i = 0; i < SIZE;)
 	{
@@ -28,13 +28,18 @@ void main()
 		if (check)
 		{
 			arr[i] = a;
+
+			if (a < min)
+			{
+				min = a;
+			}
 			i++;
 		}
 	}
-
 
 	for (int i = 0; i < SIZE; i++)
 	{
 		cout << arr[i]<<"\n";
 	}
+	cout << "Min of array: " << min << endl;
 }
