@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\cpp\l7\l7\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  L7.vcxproj -> D:\CPP\L7\Debug\L7.exe

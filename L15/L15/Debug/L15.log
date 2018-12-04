@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\cpp\l15\l15\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  L15.vcxproj -> D:\CPP\L15\Debug\L15.exe
